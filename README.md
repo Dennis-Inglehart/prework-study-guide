@@ -15,8 +15,11 @@ The Study Guide is a single webpage, showing the entire collection of Notes all 
 There are currently four topics: HTML, CSS, Git, and JavaScript
 
 The Study Guide features a hidden topic lister/chooser, viewable through the console. To access the lister/chooser on Chrome or Firefox:
+
 -Right click anywhere on the page to bring up a context menu
+
 -Select 'Inspect', to bring up the big Developer Tools field in the context menu
+
 -Switch to the 'Console' tab in the Developer Tools field
 
 The lister/chooser lists all four current topics, and chooses a topic at random, all in cheerful language. Every time the page is refreshed, the randomizer will choose a new random topic.
